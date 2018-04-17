@@ -1,0 +1,18 @@
+{
+  "name": "galvanize-searcher",
+  "version": "0.1.0",
+  "description": "Set of JavaScript data access exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "JS",
+    "exercises"
+  ],
+  "author": "Kyle Coberly",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.1.0"
+  }
+}
